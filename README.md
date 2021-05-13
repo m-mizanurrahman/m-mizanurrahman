@@ -4,7 +4,6 @@ A passionate frontend developer from Bangladesh!
 Skills: MERN Projects, JavaScript, Bootstrap, Material UI, Firebase, Rest API, VS Code, Chrome Dev tool, Postman, Heroku, Netlify, React native, MongoDB.
 
 
-Resume | Portfolio | GitHub | LinkedIn | 
 mizan38ju@gmail.com
 +8801819391733, Kushtia-7042
 
