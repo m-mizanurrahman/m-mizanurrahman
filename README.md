@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Mizanur Rahman
+A passionate frontend developer from Dhaka, Bangladesh!
+
 
 <!--
 **m-mizanurrahman/m-mizanurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
