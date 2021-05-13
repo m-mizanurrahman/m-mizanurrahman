@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mizanur Rahman
-A passionate frontend developer from, Bangladesh!
+A passionate frontend developer from Bangladesh!
 
 
 <!--
