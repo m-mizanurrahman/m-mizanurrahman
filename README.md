@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Mizanur Rahman
 A passionate frontend developer from Bangladesh!
 
+Skills: MERN Projects, JavaScript, Bootstrap, Material UI, Firebase, Rest API, VS Code, Chrome Dev tool, Postman, Heroku, Netlify, React native, MongoDB.
+
 
 <!--
 **m-mizanurrahman/m-mizanurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
